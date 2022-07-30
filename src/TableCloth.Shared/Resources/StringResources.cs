@@ -26,13 +26,14 @@ namespace TableCloth.Resources
             "https://github.com/yourtablecloth/TableCloth/releases";
 
         internal static readonly string CatalogUrl =
-            "https://yourtablecloth.github.io/TableClothCatalog/Catalog.xml";
+            "https://raw.githubusercontent.com/leedonggyu1848/TableClothCatalog/CatalogTest/docs/Catalog.xml";
 
         internal static readonly string IEModeListUrl =
-            "https://yourtablecloth.github.io/TableClothCatalog/Compatibility.xml";
+            "https://raw.githubusercontent.com/leedonggyu1848/TableClothCatalog/CatalogTest/docs/Compatibility.xml";
 
         internal static readonly string ImageUrlPrefix =
-            "https://yourtablecloth.github.io/TableClothCatalog/images";
+            "https://raw.githubusercontent.com/leedonggyu1848/TableClothCatalog/CatalogTest/docs/images";
+        
 
         internal static readonly string SentryDsn =
             "https://785e3f46849c403bb6c323d7a9eaad91@o77541.ingest.sentry.io/5915832";
